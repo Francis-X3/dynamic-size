@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0;
+}
+.wrapper{
+  margin-right: auto;
+  display: inline-block;
+  margin-left: auto;
+  min-height: 400px;
+  max-width: 600px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Phrenology1.jpg/200px-Phrenology1.jpg);
+}
+.wrapper img{
+  text-align: center;
+}
+.wrapper h2{
+ background-color: aqua;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 35px;
+ text-align: center;
+}
+.wrapper p{
+font-size: 16px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: #fff;
+}
